@@ -1,0 +1,299 @@
+
+body
+{
+    
+    width: 100%;
+    height: 100%;
+    background-color: antiquewhite;
+   
+}
+
+div[class="header-back"]
+{
+    width: 1575px;
+    height: 200px;
+    background-color:green;
+    display:inline-flex;
+    margin-left: 0px;    
+}
+
+span[class="logo"]
+{
+    
+    width: 500px;
+   
+    background-image: url(dp-bbm-maulid-nabi-muhammad-saw-banner.jpeg);
+    background-repeat: no-repeat;
+    background-size: 519px;
+}
+
+/*div[class="nav"] ul{
+    list-style: none;
+     color: #d8d8d8;
+    display:inline;
+   
+    
+}
+
+div[class="nav"] ul li a{
+    
+    float: left;
+    text-decoration: none;
+    
+     width: 80px;
+   
+    font-size: 20px;
+   
+    text-align: center;
+    height: 45px;
+    line-height: 45px;
+    text-shadow: 1px 1px 0 #000000;
+    cursor: pointer''
+  
+}*/
+
+div[class="nav"] ul{
+    list-style: none;
+    
+     display:inline-block;
+    margin-left:0px;
+    margin-top: 10px;
+    
+    
+}
+
+div[class="nav"] ul li{
+    
+    float: left;
+   
+     width: 150px;
+    
+    font-size: 16px;
+   /* background-color: #aaf;*/
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    /*box-shadow: 0px 1px 3px grey;*/
+    
+}
+div[class="nav"] ul li a{
+    
+    text-decoration: none;
+    color: #d8d8d8;
+    display: block;
+    
+}
+
+div[class="nav"] ul li a:hover{
+    
+    
+    color:cornsilk;
+    background-color: black;
+    
+}
+
+div[class="nav2"] ul{
+    list-style: none;
+    color:black;
+     display:inline-block;
+    margin-left:30px;
+    margin-top: 10px;
+    
+    
+}
+
+div[class="nav2"] ul li{
+    
+    float: left;
+   
+     width: 150px;
+    
+    font-size: 16px;
+   /* background-color: #aaf;*/
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    /*box-shadow: 0px 1px 3px grey;*/
+    
+}
+div[class="nav2"] ul li a{
+    
+    text-decoration: none;
+    color: #d8d8d8;
+    display: block;
+    
+}
+
+div[class="nav2"] ul li a:hover{
+    
+    
+    color:cornsilk;
+    background-color: black;
+    
+}
+
+
+div[class="nav3"] ul{
+    list-style: none;
+    color:black;
+     display:inline-block;
+    margin-left:30px;
+    margin-top: 10px;
+    
+    
+}
+
+div[class="nav3"] ul li{
+    
+    float: left;
+   
+     width: 150px;
+    
+    font-size: 16px;
+   /* background-color: #aaf;*/
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    /*box-shadow: 0px 1px 3px grey;*/
+    
+}
+div[class="nav3"] ul li a{
+    
+    text-decoration: none;
+    color: #d8d8d8;
+    display: block;
+    
+}
+
+div[class="nav3"] ul li a:hover{
+    
+    
+    color:cornsilk;
+    background-color: black;
+    
+}
+
+div[class="center-col"]
+{
+    
+        /*background-color: aqua;*/
+        width: 1000px;
+    height: 1000px;
+        margin-left: 200px;
+        display: inline-block;
+    float: left;
+    
+}
+
+div[class="right-col"]
+{
+
+        width:300px;
+        height: 1000px;
+        /*background-color:blueviolet;*/
+        display: inline-block;
+    margin-left: 20px;
+}
+
+div[class="heading"]
+{
+    font-size: 28px;
+    font-weight: normal;
+    letter-spacing: normal;
+    margin-top: 30px;;
+    padding-bottom: 15px;
+    margin-bottom: 0px;
+    color: #8a5b0b;  
+    display: inline-block;
+     text-shadow: 1px 1px 0 #ffffff;
+}
+
+span[class="content"]
+{
+        font-size: 15px;
+    
+    font-family: Helvetica, Arial, FreeSans, sans-serif;
+    line-height:1.9em;
+    color: #6e6e6e;
+    
+}
+
+b{
+    color:darkorange;
+}
+
+h2[class="ramdan"] 
+{
+    color:black; 
+    margin-left:40px;
+    
+        font-size: 28px;
+    line-height: 30px;
+    font-weight: normal;
+    letter-spacing: normal;
+    margin-top: 0;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    text-shadow: 1px 1px 0 #ffffff;
+    
+}
+
+h2[class="articles"] 
+{
+    color:black; 
+    margin-left:44px;
+    
+    font-size: 28px;
+    line-height: 30px;
+    font-weight: normal;
+    letter-spacing: normal;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    text-shadow: 1px 1px 0 #ffffff;
+}
+
+div[class"nav-art"] ul 
+{
+   float: left;
+   
+     width: 150px;
+    
+    font-size: 16px;
+   /* background-color: #aaf;*/
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    /*box-shadow: 0px 1px 3px grey;*/
+    
+}
+div[class="nav-art"] ul li a{
+    
+    text-decoration: none;
+    color: #8a5b0b;
+    display: block;
+    
+}
+
+div[class="nav-art"] ul li a:hover{
+    
+    text-decoration: none;
+    color: black;
+    display: block;
+    
+}
+h2[class="Allah"] 
+{
+    color:black; 
+    margin-left:30px;
+    
+        font-size: 26px;
+    line-height: 30px;
+    font-weight: normal;
+    letter-spacing: normal;
+    margin-top: 0;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    text-shadow: 1px 1px 0 #ffffff;
+    
+}
+
